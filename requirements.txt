@@ -1,0 +1,13 @@
+falkordb>=1.0.0
+fastapi>=0.104.0
+uvicorn[standard]>=0.24.0
+openai>=1.0.0
+python-dotenv>=1.0.0
+pydantic>=2.0.0
+pydantic-settings>=2.0.0
+streamlit>=1.28.0
+streamlit-agraph>=0.0.45
+pyvis>=0.3.2
+httpx>=0.25.0
+rich>=13.0.0
+pytest>=7.0.0
